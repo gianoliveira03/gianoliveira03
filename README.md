@@ -14,10 +14,10 @@ Este é o espaço onde passo a maior parte do meu tempo onde a imaginação e a 
 <br><br>
 
 <h1>Conecte-se comigo: </h1>
- <a href="https://www.instagram.com/gian_oliveira03?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr"">
-  <img align="left" width="26px" src="https://camo.githubusercontent.com/77812356a8482a8660b760474ebb0f2fbf1026aa8a68121a45a31a5602c710fb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" alt="instagram" >
+ <a href="https://www.instagram.com/gian_oliveira03/">
+  <img align="left" width="26px" src="https://camo.githubusercontent.com/77812356a8482a8660b760474ebb0f2fbf1026aa8a68121a45a31a5602c710fb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" alt="instagram" />
  </a>
-<a href="[www.linkedin.com/in/gian-oliveira03](https://www.linkedin.com/in/gian-oliveira-82a532241/)">
+<a href="www.linkedin.com/in/gian-oliveira03">
   <img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
