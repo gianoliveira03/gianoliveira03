@@ -6,7 +6,7 @@ Este é o espaço onde passo a maior parte do meu tempo onde a imaginação e a 
 <br>
 
 <lu>
-  <li>:speech_balloon: Pergunte-me sobre qualquer coisa aqui :point_right: <a href="www.linkedin.com/in/gian-oliveira03">Clique aqui</a></li>
+  <li>:speech_balloon: Pergunte-me sobre qualquer coisa aqui :point_right: <a href="https://www.linkedin.com/in/gian-oliveira03">Clique aqui</a></li>
   <li>:mailbox: Como entrar em contato comigo:<a href="https://www.instagram.com/gian_oliveira03?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr"> @gianoliveira_03 </a> ;</li>
 </lu>
 
